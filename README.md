@@ -38,3 +38,5 @@ manifest: manifest.json
 ```
 
 Apache-2.0 © [yarnova.io](https://yarnova.io)
+
+# PR Merge: 2025-10-17 - fix/merge-5216
